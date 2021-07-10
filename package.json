@@ -1,0 +1,18 @@
+{
+  "name": "random-images",
+  "version": "1.0.0",
+  "description": "ramdom images to make unique a nft",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "keywords": [
+    "nft",
+    "art"
+  ],
+  "author": "jonw6",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
