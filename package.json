@@ -14,5 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "merge-images": "^2.0.0"
   }
 }
